@@ -32,6 +32,11 @@ Creo carpeta y archivo privados
 5.git status
 6.git push origin master
 
+2.6 CREAR UNA RAMA REMOTA V0.2
+1. git checkout -b v0.2
+2. echo > 2.txt
+2. git commit -am"cuatro commit"
+3. git push origin v0.2:v0.2
 
 
 
