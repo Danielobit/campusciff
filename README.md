@@ -38,7 +38,9 @@ Creo carpeta y archivo privados
 2. git commit -am"cuatro commit"
 3. git push origin v0.2:v0.2
 
-
+2.7 MERGE DIRECTO
+1. git checkout master
+2. git merge v0.2
 
 
 
