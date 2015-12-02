@@ -1,6 +1,9 @@
 # campusscif repositorio para los ejercicios a entregar
 
-#Adolfo voy incluyendo los comandos
+> Adolfo voy incluyendo los comandos
+
+## Instrucciones
+*He añadido esta parte para poder solicitarte un "pull request"*
 
 1. git clone https://github.com/Danielobit/campusciff.git
 
