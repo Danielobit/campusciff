@@ -1,4 +1,4 @@
-# Daniel Escuder - Ejercicios de GIT
+# Daniel Escuder - Ejercicios de      ![](https://git-scm.com/images/logo@2x.png)
 Adolfo, a continuación ire copiando  [el código fuente utilizado][df1] en cada uno de los apartados de los ejercicios que nos has mandado. **Para mí, estos empiezan en el apartado 2.1 de los apuntes**
 
 NOTA: he subido en el archivo imagenes.zip algunos pantallazos de las tareas realizadas se que comentan mas abajo.
